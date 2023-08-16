@@ -1,0 +1,1 @@
+console.log("颜蕊创建的js文件");
